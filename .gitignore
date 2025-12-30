@@ -1,0 +1,12 @@
+/data/raw_data
+/data/processed_data
+/models
+/venv/
+/notebooks/images
+
+.ipynb_checkpoints/
+__pycache__/
+
+dev-log.org
+
+*.pdf

@@ -1,0 +1,50 @@
+[INFO] - 2025-12-29 17:14:42,809 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 17:14:42,809 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 17:14:42,809 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 17:35:55,977 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 17:35:55,978 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 17:35:55,978 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 17:36:15,440 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 17:36:15,440 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 17:36:15,440 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 17:37:38,888 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 17:37:38,888 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 17:37:38,888 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 17:38:15,285 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 17:38:15,285 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 17:38:15,285 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 17:38:15,285 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:12
+[INFO] - 2025-12-29 17:38:15,285 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:19
+[INFO] - 2025-12-29 17:38:15,285 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:40
+[INFO] - 2025-12-29 17:39:17,134 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 17:39:17,134 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 17:39:17,134 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 17:39:17,134 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:12
+[INFO] - 2025-12-29 17:39:36,024 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 17:39:36,024 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 17:39:36,024 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 17:39:36,024 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:12
+[INFO] - 2025-12-29 17:39:36,024 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 17:40:06,720 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 17:40:06,720 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 17:40:06,720 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 17:40:06,720 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:12
+[INFO] - 2025-12-29 17:40:06,720 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 17:40:26,877 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 17:40:26,878 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 17:40:26,878 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 17:40:26,878 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:12
+[INFO] - 2025-12-29 17:40:26,878 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 17:41:33,300 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 17:41:33,300 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 17:41:33,300 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 17:41:33,300 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:12
+[INFO] - 2025-12-29 17:41:33,300 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 17:42:18,853 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 17:42:18,853 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 17:42:18,853 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 17:42:18,853 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:12
+[INFO] - 2025-12-29 17:42:18,853 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 17:42:18,892 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:14
+[INFO] - 2025-12-29 17:42:18,892 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:21
+[INFO] - 2025-12-29 17:42:18,892 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:42

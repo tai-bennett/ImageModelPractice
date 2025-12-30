@@ -1,0 +1,13 @@
+numpy
+pandas
+jupyter
+easydict==1.7
+graphviz==0.8.4
+gym==0.10.5
+imageio==2.3.0
+matplotlib
+Pillow
+torch
+torchvision
+tqdm==4.23.4
+-e .

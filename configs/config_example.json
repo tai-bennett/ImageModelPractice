@@ -1,0 +1,7 @@
+{
+    "exp_name": "example_exp_0",
+    "agent": "FashionNetAgent",
+    "mode": "train",
+    "batch_size": 32,
+    "data_path":"../data"
+}

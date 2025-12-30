@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ImageModelPractice"
+version = "0.1.0"
+description = "source files for fpf project"
+authors = [{name = "Duncan Bennett"}]
+requires-python = ">=3.1"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
