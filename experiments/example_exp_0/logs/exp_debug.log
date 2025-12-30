@@ -48,3 +48,228 @@
 [INFO] - 2025-12-29 17:42:18,892 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:14
 [INFO] - 2025-12-29 17:42:18,892 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:21
 [INFO] - 2025-12-29 17:42:18,892 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:42
+[INFO] - 2025-12-29 20:07:35,491 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 20:07:35,492 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 20:07:35,492 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 20:07:35,492 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:13
+[INFO] - 2025-12-29 20:07:35,492 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 20:07:51,980 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:15
+[INFO] - 2025-12-29 20:09:09,189 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 20:09:09,189 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 20:09:09,189 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 20:09:09,189 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:13
+[INFO] - 2025-12-29 20:09:09,189 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 20:09:09,306 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:15
+[INFO] - 2025-12-29 20:09:09,311 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:17
+[INFO] - 2025-12-29 20:09:09,312 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:27
+[INFO] - 2025-12-29 20:09:45,045 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 20:09:45,046 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 20:09:45,046 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 20:09:45,046 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:13
+[INFO] - 2025-12-29 20:09:45,046 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 20:09:45,195 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:15
+[INFO] - 2025-12-29 20:09:45,196 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:17
+[INFO] - 2025-12-29 20:09:45,197 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:27
+[INFO] - 2025-12-29 20:11:56,415 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:61
+[INFO] - 2025-12-29 20:14:54,906 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 20:14:54,906 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 20:14:54,907 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 20:14:54,907 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:13
+[INFO] - 2025-12-29 20:14:54,907 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 20:14:54,984 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:15
+[INFO] - 2025-12-29 20:14:54,986 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:17
+[INFO] - 2025-12-29 20:14:54,987 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:27
+[INFO] - 2025-12-29 20:20:18,997 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:69
+[INFO] - 2025-12-29 20:20:57,708 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 20:20:57,708 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 20:20:57,708 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 20:20:57,708 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:13
+[INFO] - 2025-12-29 20:20:57,708 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 20:20:57,819 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:15
+[INFO] - 2025-12-29 20:20:57,820 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:17
+[INFO] - 2025-12-29 20:20:57,820 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:27
+[INFO] - 2025-12-29 20:37:00,770 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 20:37:00,770 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 20:37:00,770 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 20:37:00,771 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:14
+[INFO] - 2025-12-29 20:37:00,771 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 20:37:01,005 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:16
+[INFO] - 2025-12-29 20:37:01,009 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:18
+[INFO] - 2025-12-29 20:37:01,009 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:28
+[INFO] - 2025-12-29 20:38:40,169 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 20:38:40,169 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 20:38:40,169 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 20:38:40,169 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:14
+[INFO] - 2025-12-29 20:38:40,170 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 20:38:40,302 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:16
+[INFO] - 2025-12-29 20:38:40,303 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:18
+[INFO] - 2025-12-29 20:38:40,303 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:28
+[INFO] - 2025-12-29 20:42:07,844 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:33
+[INFO] - 2025-12-29 20:42:07,856 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:72
+[INFO] - 2025-12-29 21:06:48,471 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 21:06:48,471 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 21:06:48,471 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 21:06:48,472 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:15
+[INFO] - 2025-12-29 21:06:48,472 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 21:06:48,589 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:17
+[INFO] - 2025-12-29 21:06:48,591 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:19
+[INFO] - 2025-12-29 21:07:17,106 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 21:07:17,106 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 21:07:17,107 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 21:07:17,107 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:15
+[INFO] - 2025-12-29 21:07:17,107 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 21:07:17,166 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:17
+[INFO] - 2025-12-29 21:07:17,167 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:19
+[INFO] - 2025-12-29 21:07:17,168 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:35
+[INFO] - 2025-12-29 21:07:21,986 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:40
+[INFO] - 2025-12-29 21:07:21,994 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:79
+[INFO] - 2025-12-29 21:22:42,375 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 21:22:42,376 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 21:22:42,376 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 21:22:42,376 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:15
+[INFO] - 2025-12-29 21:22:42,376 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 21:22:42,491 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:17
+[INFO] - 2025-12-29 21:22:42,497 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:19
+[INFO] - 2025-12-29 21:22:42,497 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:36
+[INFO] - 2025-12-29 21:24:07,621 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:80
+[INFO] - 2025-12-29 21:25:04,265 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 21:25:04,265 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 21:25:04,266 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 21:25:04,266 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:15
+[INFO] - 2025-12-29 21:25:04,266 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 21:25:04,422 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:17
+[INFO] - 2025-12-29 21:25:04,425 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:19
+[INFO] - 2025-12-29 21:25:04,426 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:36
+[INFO] - 2025-12-29 21:26:42,334 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:80
+[INFO] - 2025-12-29 21:28:00,687 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 21:28:00,687 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 21:28:00,688 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 21:28:00,688 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:15
+[INFO] - 2025-12-29 21:28:00,688 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 21:28:00,800 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:17
+[INFO] - 2025-12-29 21:28:00,802 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:19
+[INFO] - 2025-12-29 21:28:00,802 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:36
+[INFO] - 2025-12-29 21:29:25,626 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:80
+[INFO] - 2025-12-29 21:42:18,681 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 21:42:18,681 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 21:42:18,681 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 21:42:18,682 - Agent - : Loading datasets... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:15
+[INFO] - 2025-12-29 21:42:18,682 - FashionMNISTDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 21:42:18,781 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:17
+[INFO] - 2025-12-29 21:42:18,782 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:19
+[INFO] - 2025-12-29 21:42:18,783 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:36
+[INFO] - 2025-12-29 21:43:50,802 - Agent - : You have entered CTRL+C.. Wait to finalize in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:41
+[INFO] - 2025-12-29 21:43:50,828 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:80
+[INFO] - 2025-12-29 21:43:54,659 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 21:43:54,660 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 21:43:54,660 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 21:43:54,660 - FashionMNISTDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 21:43:54,791 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:16
+[INFO] - 2025-12-29 21:43:54,793 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:18
+[INFO] - 2025-12-29 21:43:54,794 - Agent - : Checkpoints will be saved via local in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:21
+[INFO] - 2025-12-29 21:43:54,794 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:36
+[INFO] - 2025-12-29 21:45:21,127 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:80
+[INFO] - 2025-12-29 21:50:15,825 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 21:50:15,825 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 21:50:15,825 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 21:50:15,826 - FashionMNISTDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 21:50:15,891 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:16
+[INFO] - 2025-12-29 21:50:15,893 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:18
+[INFO] - 2025-12-29 21:50:15,894 - Agent - : Checkpoints will be saved via local in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:21
+[INFO] - 2025-12-29 21:50:15,894 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:36
+[INFO] - 2025-12-29 21:50:25,994 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 21:50:25,994 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 21:50:25,994 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 21:50:25,994 - FashionMNISTDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 21:50:26,082 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:16
+[INFO] - 2025-12-29 21:50:26,083 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:18
+[INFO] - 2025-12-29 21:50:26,084 - Agent - : Checkpoints will be saved via local in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:21
+[INFO] - 2025-12-29 21:50:26,084 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:36
+[INFO] - 2025-12-29 21:50:39,921 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 21:50:39,921 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 21:50:39,921 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 21:50:39,921 - FashionMNISTDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 21:50:40,056 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:16
+[INFO] - 2025-12-29 21:50:40,058 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:18
+[INFO] - 2025-12-29 21:50:40,058 - Agent - : Checkpoints will be saved via local in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:21
+[INFO] - 2025-12-29 21:50:40,058 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:36
+[INFO] - 2025-12-29 21:52:11,732 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:81
+[INFO] - 2025-12-29 22:01:51,066 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 22:01:51,067 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 22:01:51,067 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 22:01:51,067 - FashionMNISTDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 22:01:51,176 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:16
+[INFO] - 2025-12-29 22:01:51,177 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:18
+[INFO] - 2025-12-29 22:01:51,178 - Agent - : Checkpoints will be saved via local in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:21
+[INFO] - 2025-12-29 22:04:45,129 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 22:04:45,129 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 22:04:45,129 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 22:04:45,129 - FashionMNISTDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 22:04:45,232 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:16
+[INFO] - 2025-12-29 22:04:45,236 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:18
+[INFO] - 2025-12-29 22:04:45,237 - Agent - : Checkpoints will be saved via local in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:21
+[INFO] - 2025-12-29 22:04:45,238 - Agent - : Loading checkpoint... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:25
+[INFO] - 2025-12-29 22:05:05,524 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 22:05:05,524 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 22:05:05,524 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 22:05:05,524 - FashionMNISTDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 22:05:05,624 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:16
+[INFO] - 2025-12-29 22:05:05,625 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:18
+[INFO] - 2025-12-29 22:05:05,626 - Agent - : Checkpoints will be saved via local in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:21
+[INFO] - 2025-12-29 22:05:05,626 - Agent - : Loading checkpoint... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:25
+[INFO] - 2025-12-29 22:05:05,626 - Agent - : Loading checkpoint 'experiments/example_exp_0/checkpoints/checkpoint_example2.pt' in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:39
+[INFO] - 2025-12-29 22:05:05,629 - Agent - : No checkpoint exists from 'experiments/example_exp_0/checkpoints/'. Skipping... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:50
+[INFO] - 2025-12-29 22:05:05,629 - Agent - : **First time to train** in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:51
+[INFO] - 2025-12-29 22:05:05,629 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:58
+[INFO] - 2025-12-29 22:06:27,916 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:103
+[INFO] - 2025-12-29 22:06:39,698 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 22:06:39,698 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 22:06:39,698 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 22:06:39,698 - FashionMNISTDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 22:06:39,762 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:16
+[INFO] - 2025-12-29 22:06:39,764 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:18
+[INFO] - 2025-12-29 22:06:39,764 - Agent - : Checkpoints will be saved via local in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:21
+[INFO] - 2025-12-29 22:06:39,765 - Agent - : Loading checkpoint 'experiments/example_exp_0/checkpoints/checkpoint_example2.pt' in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:38
+[INFO] - 2025-12-29 22:07:09,600 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 22:07:09,600 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 22:07:09,601 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 22:07:09,601 - FashionMNISTDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 22:07:09,673 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:16
+[INFO] - 2025-12-29 22:07:09,674 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:18
+[INFO] - 2025-12-29 22:07:09,675 - Agent - : Checkpoints will be saved via local in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:21
+[INFO] - 2025-12-29 22:07:09,675 - Agent - : Loading checkpoint 'experiments/example_exp_0/checkpoints/checkpoint_example2.pt' in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:38
+[INFO] - 2025-12-29 22:07:56,078 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 22:07:56,078 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 22:07:56,078 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 22:07:56,079 - FashionMNISTDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 22:07:56,160 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:16
+[INFO] - 2025-12-29 22:07:56,162 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:18
+[INFO] - 2025-12-29 22:07:56,163 - Agent - : Checkpoints will be saved via local in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:21
+[INFO] - 2025-12-29 22:07:56,163 - Agent - : Loading checkpoint 'experiments/example_exp_0/checkpoints/checkpoint_example2.pt' in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:38
+[INFO] - 2025-12-29 22:07:56,168 - Agent - : Checkpoint loaded successfully 
+ in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:48
+[INFO] - 2025-12-29 22:07:56,168 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:58
+[INFO] - 2025-12-29 22:09:08,422 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:103
+[INFO] - 2025-12-29 22:18:56,583 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 22:18:56,584 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 22:18:56,584 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 22:19:32,348 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 22:19:32,348 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 22:19:32,348 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 22:19:32,349 - FashionMNISTDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 22:19:32,574 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:18
+[INFO] - 2025-12-29 22:19:32,578 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:20
+[INFO] - 2025-12-29 22:19:32,579 - Agent - : Checkpoints will be saved via local in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:23
+[INFO] - 2025-12-29 22:20:51,134 - root - : Hi, This is root. in /home/db/gitProjects/ImageModelPractice/utils/config.py:92
+[INFO] - 2025-12-29 22:20:51,134 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/ImageModelPractice/utils/config.py:93
+[INFO] - 2025-12-29 22:20:51,135 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/ImageModelPractice/utils/config.py:94
+[INFO] - 2025-12-29 22:20:51,135 - FashionMNISTDataLoader - : Loading DATA... in /home/db/gitProjects/ImageModelPractice/src/data/dataset.py:13
+[INFO] - 2025-12-29 22:20:51,213 - Agent - : Building model... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:18
+[INFO] - 2025-12-29 22:20:51,214 - Agent - : Define loss... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:20
+[INFO] - 2025-12-29 22:20:51,215 - Agent - : Checkpoints will be saved via local in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:23
+[INFO] - 2025-12-29 22:20:51,215 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:35
+[INFO] - 2025-12-29 22:20:51,215 - Agent - : Loading checkpoint 'experiments/example_exp_0/checkpoints/checkpoint_example2.pt' in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:50
+[INFO] - 2025-12-29 22:20:51,219 - Agent - : Checkpoint loaded successfully in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:60
+[INFO] - 2025-12-29 22:20:51,219 - Agent - : Running agent... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:70
+[INFO] - 2025-12-29 22:22:09,682 - Agent - : Finalizing... in /home/db/gitProjects/ImageModelPractice/agents/FashionNet.py:115

@@ -3,5 +3,9 @@
     "agent": "FashionNetAgent",
     "mode": "train",
     "batch_size": 32,
-    "data_path":"../data"
+    "data_path":"data",
+    "learning_rate": 0.1,
+    "max_epoch": 3,
+    "checkpoint_backend": "local",
+    "checkpoint_file": "checkpoint_example2.pt"
 }

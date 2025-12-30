@@ -1,0 +1,2 @@
+#+TITLE: Data
+This folder contains data downloaded and ignored by git.
