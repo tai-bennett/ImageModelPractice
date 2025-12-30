@@ -1,5 +1,4 @@
-/data/raw_data
-/data/processed_data
+/data
 /models
 /venv/
 /notebooks/images
