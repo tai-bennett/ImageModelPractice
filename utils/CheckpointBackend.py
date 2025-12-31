@@ -21,7 +21,7 @@ class CheckpointBackendBase():
 class LocalCheckpointBackend(CheckpointBackendBase):
     def __init__(self, config):
         super().__init__()
-        self.path = os.path.join(self.config.checkpoint_dir, self.config.checkpoint_file)
+        self.path = os.path.join(config.checkpoint_dir, config.checkpoint_file)
 
     def save(self, state: dict):
         local_save(state, self.path)
@@ -43,10 +43,6 @@ class S3CheckpointBackend(CheckpointBackendBase):
             self.logger.info("Failed to save locally")
         self.upload_file() 
 
-
-    def load(self, path: str):
-        return local_load(path)
-
     def upload_file(self):
         """Upload a file to an S3 bucket
 
@@ -67,6 +63,15 @@ class S3CheckpointBackend(CheckpointBackendBase):
             self.logger.info("AWS Credentials Error, failed to upload to S3")
         except PartialCredentialsError as e:
             self.logger.info("AWS Credentials Error, failed to upload to S3")
+
+    def load(self):
+        self.download_file()
+        return local_load(self.path)
+
+    def download_file(self):
+        s3 = boto3.client('s3')
+        with open(self.path, 'wb') as f:
+            s3.download_fileobj(self.bucket, self.path, f)
 
 
 
