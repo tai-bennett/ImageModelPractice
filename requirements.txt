@@ -10,4 +10,5 @@ Pillow
 torch
 torchvision
 tqdm==4.23.4
+boto3
 -e .

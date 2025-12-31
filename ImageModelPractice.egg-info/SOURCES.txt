@@ -4,4 +4,5 @@ ImageModelPractice.egg-info/SOURCES.txt
 ImageModelPractice.egg-info/dependency_links.txt
 ImageModelPractice.egg-info/top_level.txt
 src/__init__.py
-src/dataset.py
+src/data/__init__.py
+src/data/dataset.py

@@ -1,11 +1,12 @@
 {
-    "exp_name": "example_exp_0",
+    "exp_name": "exp_aws_test",
     "agent": "FashionNetAgent",
     "mode": "train",
     "batch_size": 32,
     "data_path":"data",
     "learning_rate": 0.1,
     "max_epoch": 3,
-    "checkpoint_backend": "local",
-    "checkpoint_file": "checkpoint_example2.pt"
+    "checkpoint_backend": "s3",
+    "s3bucket": "test-my-ml-weights",
+    "checkpoint_file": "checkpoint_example1.pt"
 }

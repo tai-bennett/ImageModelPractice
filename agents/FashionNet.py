@@ -25,7 +25,7 @@ class FashionNetAgent(BaseAgent):
 
         # backend
         self.logger.info("Checkpoints will be saved via " + str(config.checkpoint_backend))
-        self.checkpointbackend = build_checkpoint_backend(config.checkpoint_backend)
+        self.checkpointbackend = build_checkpoint_backend(config)
 
         # device
         device = get_device()
@@ -45,8 +45,9 @@ class FashionNetAgent(BaseAgent):
             'model': self.model.state_dict(),
             'optimizer': self.optimizer.state_dict()
         }
-        path = os.path.join(self.config.checkpoint_dir, self.config.checkpoint_file)
-        self.checkpointbackend.save(state, path)
+        #path = os.path.join(self.config.checkpoint_dir, self.config.checkpoint_file)
+        self.checkpointbackend.save(state)
+            
 
     def load_checkpoint(self):
         path = os.path.join(self.config.checkpoint_dir, self.config.checkpoint_file)
