@@ -1,6 +1,7 @@
 /data
 /models
 /venv/
+/experiments/*
 /notebooks/images
 
 .ipynb_checkpoints/
