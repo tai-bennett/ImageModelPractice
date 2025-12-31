@@ -53,7 +53,7 @@ class FashionNetAgent(BaseAgent):
         path = os.path.join(self.config.checkpoint_dir, self.config.checkpoint_file)
         try:
             self.logger.info("Loading checkpoint '{}'".format(path))
-            checkpoint = self.checkpointbackend.load(path)
+            checkpoint = self.checkpointbackend.load()
 
             # self.current_epoch = checkpoint['epoch']
             # self.current_iteration = checkpoint['iteration']
