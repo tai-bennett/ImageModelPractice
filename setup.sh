@@ -28,6 +28,8 @@ for arg in "$@"; do
 	esac
 done
 
+echo "RUN_MAIN=${RUN_MAIN}"
+
 if [[ "$RUN_MAIN" == true ]]; then
 	echo "Running main script"
 	./run.sh
