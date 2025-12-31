@@ -28,7 +28,7 @@ for arg in "$@"; do
 	esac
 done
 
-if [["$RUN_MAIN" == true ]]; then
+if [[ "$RUN_MAIN" == true ]]; then
 	echo "Running main script"
 	./run.sh
 else
