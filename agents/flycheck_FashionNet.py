@@ -28,12 +28,11 @@ class FashionNetAgent(BaseAgent):
         self.checkpointbackend = build_checkpoint_backend(config)
 
         # device
-        device = get_device()
+        self.device = get_device()
         pdb.set_trace()
-        if device.type == 'cuda':
-            torch.cuda.set_device(self.config.gpu_device)
-            self.model = self.model.cuda()
-            self.loss = self.loss.cuda()
+        if self.device.type == 'cuda':
+            #torch.cuda.set_device(self.config.gpu_device)
+            self.model = self.model.to(self.device)
             self.logger.info("Program will run on *****GPU-CUDA***** ")
             print_cuda_statistics()
         elif device.type == 'cpu':
@@ -91,6 +90,8 @@ class FashionNetAgent(BaseAgent):
         train_loss = 0
         for batch, (X, y) in enumerate(self.data_loader.train_loader):
             self.model.train()
+            X.to(self.device, non_blocking=True)
+            y.to(self.device, non_blocking=True)
             y_pred = self.model(X)
             loss = self.loss(y_pred, y)
             train_loss += loss
@@ -105,6 +106,8 @@ class FashionNetAgent(BaseAgent):
         self.model.eval()
         with torch.inference_mode():
             for X, y in self.data_loader.test_loader:
+                X.to(self.device, non_blocking=True)
+                y.to(self.device, non_blocking=True)
                 y_pred = self.model(X)
                 loss = self.loss(y_pred, y)
                 test_loss += loss
