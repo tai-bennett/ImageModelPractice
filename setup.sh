@@ -21,9 +21,6 @@ for arg in "$@"; do
 	case "@arg" in
 		--run-main)
 			RUN_MAIN=true
-			shift
-			;;
-		*)
 			;;
 	esac
 done
