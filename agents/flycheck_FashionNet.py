@@ -29,12 +29,10 @@ class FashionNetAgent(BaseAgent):
 
         # device
         self.device = get_device()
-        pdb.set_trace()
         if self.device.type == 'cuda':
             #torch.cuda.set_device(self.config.gpu_device)
             self.model = self.model.to(self.device)
             self.logger.info("Program will run on *****GPU-CUDA***** ")
-            print_cuda_statistics()
         elif device.type == 'cpu':
             self.logger.info("Program will run on *****CPU*****")
         # checkpoints
