@@ -2,7 +2,7 @@
 
 set -e
 
-exec > /var/log/setup.log 2>&1
+# exec > /var/log/setup.log 2>&1
 
 echo "Updating ubuntu ==================="
 apt update -y
